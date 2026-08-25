@@ -112,6 +112,10 @@ DeepSeek LLM
 
 ## 故障排查示例
 
+下面是一次真实运行截图：
+
+![SecOps Agent Demo](./secops-agent-demo.png)
+
 ### 用户输入
 
 ```text
